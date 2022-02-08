@@ -92,3 +92,4 @@ venv.bak/
 
 # Cython debug symbols
 cython_debug/
+.deta/prog_info
